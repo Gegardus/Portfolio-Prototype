@@ -1,0 +1,272 @@
+
+@font-face {
+  font-family: "Crete Round";
+  src: url(Crete_Round/CreteRound-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(Inter/static/Inter-Light.ttf);
+}
+
+@font-face {
+  font-family: "InaiMathi";
+  src: url(InaiMathi.ttf);
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url(Roboto/Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url(Roboto/Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url(Poppins/Poppins-Light.ttf);
+}
+
+nav {
+  background-color: #3e3c3c;
+}
+
+body {
+  max-width: 100%;
+  margin: 0;
+  background-color: #fff;
+  padding: 0;
+  overflow-x: hidden;
+  -ms-overflow-style: none;
+  height: 100%;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+header {
+  background-image: url("images/background.svg");
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: right;
+  height: 53.25rem;
+}
+
+.title1 {
+  font-family: Crete Round, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 81px;
+  color: #f55800;
+}
+
+.par1 {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.par2 {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.title2 {
+  font-family: Crete Round, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 52px;
+  color: #091e42;
+}
+
+.btn1 {
+  background-color: #f55800;
+  width: 32%;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.title3 {
+  font-family: Crete Round, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 52px;
+  color: #091e42;
+}
+
+.par3 {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  color: #091e42;
+}
+
+.btn2 {
+  background-color: #f55800;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.card-title2 {
+  font-family: Crete Round, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.block {
+  width: 31.7%;
+  height: 435px;
+}
+
+.block1 {
+  background-image: url("images/project2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.block2 {
+  background-image: url("images/project3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.block3 {
+  background-image: url("images/project4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.block4 {
+  background-image: url("images/project5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.lans {
+  background-color: rgba(255, 255, 255, 0.24);
+}
+
+.first input {
+  border: none;
+  border-bottom: 1px solid #dbd8d7;
+}
+
+.second1 {
+  background-color: #fbf8f7;
+}
+
+.title-footer {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+.resume1 {
+  background-color: #f55800;
+  border-color: #f55800;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.resume {
+  background-color: #f55800;
+  border-color: #f55800;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+}
+
+.title-about {
+  font-family: Crete Round, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 81px;
+  color: #f55800;
+}
+
+.hello-text {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  max-width: 49%;
+  letter-spacing: 00.03em;
+}
+
+.about-block {
+  background-image: url(images/Group.png);
+  background-position: right;
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position-y: 27%;
+  background-position-x: 100%;
+}
+
+.language {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 43px;
+}
+
+.resume:hover {
+  color: #f55800;
+  background: #fff5e1;
+}
+
+button:enabled {
+  background: #f55800;
+  color: #fff;
+}
+
+.nav-btn {
+  background-color: transparent;
+}
+
+button:disabled {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 24px;
+  color: #5b5957;
+  letter-spacing: 0.03em;
+  background-color: #f4f1f0;
+}
