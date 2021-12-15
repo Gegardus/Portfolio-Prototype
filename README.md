@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 #  Portfolio-Prototype
