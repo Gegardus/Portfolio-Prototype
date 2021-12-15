@@ -49,6 +49,3 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./MIT.md) licensed.
 =======
-# Portfolio-Prototype
-First bootstrap project
->>>>>>> 3809b2cd997f14f6a1d295961b57af0aba80b44a
